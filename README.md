@@ -5,6 +5,6 @@ libraries required:-
   2.numpy
   3.os
 
-In this project i have used "haarcascade_frontalface_default.xml" .
+In this project I have used "haarcascade_frontalface_default.xml" .
 
 You just have to clone this repository and run.
